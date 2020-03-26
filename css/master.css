@@ -162,3 +162,40 @@ header
 .thumb  { border-bottom:solid 2px #888;}
 .view-data {margin-right: 65px;}
 .share-save { padding:0px 30px 0px; }
+
+.author
+{
+  height: 50px;
+  margin-top: 15px;
+}
+.author-info
+{
+  width: 64px;
+}
+
+.author-description
+{
+  width: 453px;
+}
+
+.author-description p
+{
+  color: #030303;
+  font: 14px 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+.author-description span
+{
+  color: #606060;
+  font: 12px 'Arial', sans-serif;
+}
+.subscribe button
+{
+  background-color: #E62118;
+  color: #ffff;
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 2px;
+}
