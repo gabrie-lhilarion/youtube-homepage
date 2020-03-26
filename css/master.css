@@ -175,7 +175,7 @@ header
 
 .author-description
 {
-  width: 453px;
+  width: 80%;
 }
 
 .author-description p
@@ -189,6 +189,7 @@ header
 {
   color: #606060;
   font: 12px 'Arial', sans-serif;
+
 }
 .subscribe button
 {
