@@ -127,6 +127,7 @@ header
   font-size:0.8em;
   width: 81px;
   padding: 0px;
+  margin: 0px 0px 20px;
 
   background-color: #ccc;
   display: inline-flex;
@@ -141,17 +142,23 @@ header
 .initial-info .unlisted i { font-size: 1em;}
 
 .social-info ul {
+  width:100%;
   margin:0;
 
   display: inline-flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+
  border-bottom: solid 1px #ccc;
 }
 .social-info ul li {
-  padding: 0px 15px 0px;
+  padding: 0px 25px 15px 0px ;
 }
 
 .social-info .material-icons
 {font-size:1.0em;}
+
+
+.thumb  { border-bottom:solid 2px #888;}
+.view-data {margin-right: 65px;}
+.share-save { padding:0px 30px 0px; }
