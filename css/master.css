@@ -1,5 +1,10 @@
 
-body {background-color: ghostwhite;margin: 0px;padding: 0px;}
+body
+{
+  background-color: ghostwhite;
+  margin: 0px;
+  padding: 0px;
+}
 
 
 ul, a
@@ -36,6 +41,7 @@ header
 .logo ul
 {
   padding-left: 15px;
+
 
 }
 
@@ -94,10 +100,6 @@ header
 .search-button
 { width: 55px;}
 
-.logo
-{
-  width:80px;
 
-}
 .search-bar-container
 {}
