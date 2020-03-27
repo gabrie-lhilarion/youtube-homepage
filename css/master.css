@@ -246,3 +246,53 @@ display: flex;
   font-size: 0.9em;line-height: 13px;
 
 }
+
+
+.footer {
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.comment-info {margin-top: 24px;width:200px;}
+.comment-info material-Icons{
+  margin-left:30px;  }
+
+.comment-listing {
+
+  display: flex;
+}
+
+.comment-listing img, .the-listing img { width:40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.input-cont {
+  padding: 20px;
+
+  width:100%;
+}
+.comment-listing  input {
+  outline: none;
+  margin-left: 20px;
+  display:block;
+  width: 100%;
+  border:none;
+  background: none;
+  border-bottom: solid 1px #ccc;
+}
+
+.the-listing {
+   display: flex;
+   margin-top:20px; 
+}
+
+.the-listing span, .the-listing strong{
+  display: block;
+  padding-left: 5px;
+}
+.the-listing  strong {font-size:0.9em; }
+.the-listing .material-icons {
+ color:#999;
+ font-size: 0.9em;
+
+}
