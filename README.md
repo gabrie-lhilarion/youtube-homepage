@@ -16,3 +16,21 @@ That means two things – embedding the YouTube video player into the page so it
 https://raw.githack.com/gabrie-lhilarion/youtube-homepage/feature-one/index.html
 
 # Getting Started
+
+# Authors
+
+gabrie-lhilarion
+
+*Github: @gabrie-lhilarion
+
+rindra josia
+
+*Github: @rindrajosia
+
+#  Contributing
+
+Contributions, issues and feature requests are welcome!
+
+#  Show your support
+
+Give a star if you like this project!
