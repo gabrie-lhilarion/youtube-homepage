@@ -112,7 +112,7 @@ header
 
   padding :20px;
  }
-.thumb-nail-area {background-color:#666; }
+
 .video-player
 {
   width: auto;
@@ -200,4 +200,30 @@ header
   width: 100px;
   border: none;
   border-radius: 2px;
+}
+
+
+.video-details {
+
+display: flex;
+ }
+.video-details img{
+  width: 150px;
+}
+.video-details span{
+
+  color:#999;
+  font-size: 0.90em;
+  display: block;
+}
+
+.video-details strong,.video-details span{
+    padding-left: 8px;
+    display: block;
+    text-align: left;
+}
+
+.video-details strong {
+  font-size: 0.9em;line-height: 13px;
+
 }
