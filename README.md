@@ -10,6 +10,7 @@ That means two things – embedding the YouTube video player into the page so it
 * HTML
 * CSS
 * fonts.googleapis.com
+* w3.css
 
 # Live Demo
 https://raw.githack.com/gabrie-lhilarion/youtube-homepage/feature-one/index.html
