@@ -99,28 +99,35 @@ header
    padding-left:10px;
  }
 .search-button
-{ width: 55px;}
-
-
-
-.main-container {
-  padding:40px;
-  margin-top:35px;
+{
+ width: 55px;
 }
 
-.video-area {
 
-  padding :20px;
- }
-.thumb-nail-area {background-color:#666; }
+
+.main-container
+{
+  padding: 40px;
+  margin-top: 35px;
+}
+
+.video-area
+{
+  padding : 20px;
+}
+.thumb-nail-area
+{
+  background-color: #666;
+}
 .video-player
 {
   width: auto;
-
 }
 
-.initial-info p {
-  padding: 4px 0px; margin: 0px;
+.initial-info p
+{
+  padding: 4px 0px;
+  margin: 0px;
 }
 
 .initial-info .unlisted {
