@@ -13,24 +13,43 @@ That means two things – embedding the YouTube video player into the page so it
 * w3.css
 
 # Live Demo
-https://raw.githack.com/gabrie-lhilarion/youtube-homepage/feature-one/index.html
+**[Link](https://raw.githack.com/gabrie-lhilarion/youtube-homepage/feature-one/index.html)**
+
 
 # Getting Started
+To use it locally, you need to :
+1. Fork the repository to your GitHub account.
+2. Choose a local folder for the cloned files.
+3. Clone the repository to your local machine.
+4. Double click on 'index.html'.
 
 # Authors
 
-gabrie-lhilarion
+**Gabrie Lhilarion**
 
-*Github: @gabrie-lhilarion
 
-rindra josia
+* Github: **[@gabrie-lhilarion](https://github.com/gabrie-lhilarion)**
+* Twitter: **[@gabrie-lhilarion](#)**
+* Linkedin: **[linkedin](https://www.linkedin.com/in/gabrielhilarion/)**
 
-*Github: @rindrajosia
+**Rindra Josia**
+
+* Github: **[@rindrajosia](https://github.com/rindrajosia)**
+* Twitter: **[@rindrajosia](https://www.linkedin.com/in/rindra-josia-99b2111a2/)**
+* Linkedin: **[linkedin](https://www.linkedin.com/in/rindra-josia-99b2111a2/)**
 
 #  Contributing
 
 Contributions, issues and feature requests are welcome!
+Feel free to check the **[issues](https://github.com/gabrie-lhilarion/youtube-homepage/issues)** page.
+
 
 #  Show your support
 
-Give a star if you like this project!
+  Give ⭐️ if you like this project!
+
+# Acknowledgments
+
+* YouTube
+* Microverse
+* Contributors
