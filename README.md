@@ -29,13 +29,13 @@ To use it locally, you need to :
 
 
 * Github: **[@gabrie-lhilarion](https://github.com/gabrie-lhilarion)**
-* Twitter: **[@gabrie-lhilarion](#)**
+* Twitter: **[@gabrielDeman](https://www.twitter.com/gabrielDeman)**
 * Linkedin: **[linkedin](https://www.linkedin.com/in/gabrielhilarion/)**
 
 **Rindra Josia**
 
 * Github: **[@rindrajosia](https://github.com/rindrajosia)**
-* Twitter: **[@rindrajosia](https://www.linkedin.com/in/rindra-josia-99b2111a2/)**
+* Twitter: **[@rindrajosia](https://twitter.com/josia_rindra)**
 * Linkedin: **[linkedin](https://www.linkedin.com/in/rindra-josia-99b2111a2/)**
 
 #  Contributing
