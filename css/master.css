@@ -267,3 +267,14 @@ iframe {
   color: #999;
   font-size: 0.9em;
 }
+
+.social-info button {
+  background: none;
+  border: none;
+  color: #999;
+}
+
+a,
+button {
+  cursor: pointer;
+}
