@@ -177,6 +177,11 @@ iframe {
   font: 12px 'Arial', sans-serif;
 }
 
+a,
+button {
+  cursor: pointer;
+}
+
 .subscribe button {
   background-color: #e62118;
   color: #ffff;
@@ -272,9 +277,4 @@ iframe {
   background: none;
   border: none;
   color: #999;
-}
-
-a,
-button {
-  cursor: pointer;
 }
